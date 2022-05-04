@@ -1,0 +1,20 @@
+
+a.nav-link{
+    color: white;
+}
+.nav-pills .nav-link.active{
+    background-color: chocolate;
+}
+.nav-pills{
+    background-color: tan;
+}
+.container{
+   max-width: 100%;
+}
+body{
+    background-color: burlywood;
+}
+#footer{
+    background-color: coral;
+    height: 70px;
+}
